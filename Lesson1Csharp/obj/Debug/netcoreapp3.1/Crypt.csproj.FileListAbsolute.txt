@@ -1,0 +1,13 @@
+D:\c#\Crypt\Crypt2\Lesson1Csharp\bin\Debug\netcoreapp3.1\Crypt.exe
+D:\c#\Crypt\Crypt2\Lesson1Csharp\bin\Debug\netcoreapp3.1\Crypt.deps.json
+D:\c#\Crypt\Crypt2\Lesson1Csharp\bin\Debug\netcoreapp3.1\Crypt.runtimeconfig.json
+D:\c#\Crypt\Crypt2\Lesson1Csharp\bin\Debug\netcoreapp3.1\Crypt.runtimeconfig.dev.json
+D:\c#\Crypt\Crypt2\Lesson1Csharp\bin\Debug\netcoreapp3.1\Crypt.dll
+D:\c#\Crypt\Crypt2\Lesson1Csharp\bin\Debug\netcoreapp3.1\Crypt.pdb
+D:\c#\Crypt\Crypt2\Lesson1Csharp\obj\Debug\netcoreapp3.1\Crypt.csprojAssemblyReference.cache
+D:\c#\Crypt\Crypt2\Lesson1Csharp\obj\Debug\netcoreapp3.1\Crypt.AssemblyInfoInputs.cache
+D:\c#\Crypt\Crypt2\Lesson1Csharp\obj\Debug\netcoreapp3.1\Crypt.AssemblyInfo.cs
+D:\c#\Crypt\Crypt2\Lesson1Csharp\obj\Debug\netcoreapp3.1\Crypt.csproj.CoreCompileInputs.cache
+D:\c#\Crypt\Crypt2\Lesson1Csharp\obj\Debug\netcoreapp3.1\Crypt.dll
+D:\c#\Crypt\Crypt2\Lesson1Csharp\obj\Debug\netcoreapp3.1\Crypt.pdb
+D:\c#\Crypt\Crypt2\Lesson1Csharp\obj\Debug\netcoreapp3.1\Crypt.genruntimeconfig.cache
